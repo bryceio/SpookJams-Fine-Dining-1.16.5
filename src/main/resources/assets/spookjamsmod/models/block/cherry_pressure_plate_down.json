@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "spookjamsmod:blocks/cherry_planks"
+  }
+}

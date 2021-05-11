@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "item": "spookjamsmod:cherry_planks",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "spookjamsmod:cherry_log"
+        }
+    ]
+}

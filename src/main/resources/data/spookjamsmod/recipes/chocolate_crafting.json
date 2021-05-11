@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "item": "spookjamsmod:chocolate",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:cocoa_beans"
+        },
+		{
+            "item": "minecraft:milk_bucket"
+        },
+		{
+			"item": "minecraft:sugar"
+		}
+    ]
+}

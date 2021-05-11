@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "item": "spookjamsmod:dragon_soda",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+		{
+            "item": "minecraft:dragon_breath"
+        },
+		{
+			"item": "minecraft:golden_apple"
+		},
+		{
+			"item": "minecraft:glass_bottle"
+		}
+    ]
+}

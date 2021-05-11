@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:potato"
+        }
+    },
+    "result": {
+        "item": "spookjamsmod:gluten_free_bread",
+        "count": 1
+    }
+}

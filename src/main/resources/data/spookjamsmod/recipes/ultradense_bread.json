@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+		"###",
+		"###"
+    ],
+    "key": {
+        "#": {
+            "item": "spookjamsmod:condensed_loaf"
+        }
+    },
+    "result": {
+        "item": "spookjamsmod:ultradense_loaf",
+        "count": 1
+    }
+}

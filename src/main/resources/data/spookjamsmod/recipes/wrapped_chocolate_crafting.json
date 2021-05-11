@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "item": "spookjamsmod:wrapped_chocolate",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "spookjamsmod:chocolate"
+        },
+		{
+            "item": "minecraft:iron_nugget"
+        },
+		{
+			"item": "minecraft:paper"
+		}
+    ]
+}

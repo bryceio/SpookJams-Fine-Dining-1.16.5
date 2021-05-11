@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "spookjamsmod:blocks/cherry_log_top",
+    "side": "spookjamsmod:blocks/cherry_log"
+  }
+}
